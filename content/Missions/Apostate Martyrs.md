@@ -9,13 +9,13 @@ tags:
 
 ## Mission Brief
 
-| **Info**             |                                  |
-| -------------------- | -------------------------------- |
-| **Mission Type**     | Prevention                       |
-| **Priority**         | High                             |
-| **Faction Involved** | Adeptus Mechanicus, Ecclisiarchy |
-| **Assigned Unit(s)** | Player Party                     |
-| **Current Status**   | IN PROGRESS                      |
+| **Info**             |                                          |
+| -------------------- | ---------------------------------------- |
+| **Mission Type**     | Prevention, Investigation                |
+| **Priority**         | High                                     |
+| **Faction Involved** | [[Adeptus Mechanicus]], [[Ecclisiarchy]] |
+| **Assigned Unit(s)** | Player Party                             |
+| **Current Status**   | IN PROGRESS                              |
 
 ## Objectives
 
@@ -25,7 +25,7 @@ tags:
 
 ## Background
 
-The emergence of the Great Rift is the greatest catastrophe to ever strike the [[Gilead System]], and many feel it is a punishment for the population’s lack of faith. One radical Confessor in particular, [[Homeros Vecht]], is attempting to stoke hatred for the Adeptus Mechanicus with parades on [[Enoch]]. [[Magos August-5]] has discovered a fringe Mechanicus plot to direct a Sicarian Killcade to assassinate Vecht during one of these parades, but believes this will only make matters worse, and needs a team to quietly prevent the murder.
+The emergence of the Great Rift is the greatest catastrophe to ever strike the [[Gilead System]], and many feel it is a punishment for the population’s lack of faith. One radical Confessor in particular, [[Homeros Vecht]], is attempting to stoke hatred for the [[Adeptus Mechanicus]] with parades on [[Enoch]]. [[Magos August-5]] has discovered a fringe [[Mechanicus]] plot to direct a Sicarian Killcade to assassinate [[Vecht]] during one of these parades, but believes this will only make matters worse, and needs a team to quietly prevent the murder.
 
 ## Known Information
 - **Opposition:** Sicarian Killcade 

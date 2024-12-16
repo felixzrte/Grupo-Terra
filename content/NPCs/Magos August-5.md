@@ -16,7 +16,7 @@ aliases:
 | -------------------- | -------------------------------------------------------------------------- |
 | **Gender**           | Male                                                                       |
 | **Species**          | Human                                                                      |
-| **Faction**          | Adeptus Mechanicus                                                         |
+| **Faction**          | [[Adeptus Mechanicus]]                                                     |
 | **Role**             | Magos                                                                      |
 | **Current Location** | [[Mechanicus Enclave on Praesidium]], [[Praesidium]], [[Praesidium Upper]] |
 

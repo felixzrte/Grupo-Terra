@@ -14,7 +14,7 @@ aliases:
 | -------------------- | -------------------------------------------------------- |
 | **Gender**           | Female                                                   |
 | **Species**          | Human                                                    |
-| **Faction**          | Imperium                                                 |
+| **Faction**          | [[Imperium]]                                             |
 | **Role**             | Informant                                                |
 | **Current Location** | [[Mira's Hideout]], [[Praesidium Lower]], [[Praesidium]] |
 
