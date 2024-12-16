@@ -2,9 +2,7 @@
 title: 
 tags:
   - npc
-faction: 
-condition: alive
-standing: neutral
+faction:
 ---
 ## Basic Information 
 - **Name:** {{tp_title}} 

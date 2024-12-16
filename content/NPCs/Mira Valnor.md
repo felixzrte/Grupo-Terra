@@ -2,18 +2,19 @@
 title: Mira Valnor
 tags:
   - npc
-  - imperium
-faction: Imperium
-condition: alive
-standing: neutral
+  - planet/enoch
+  - faction/imperium
+  - "#standing/neutral"
+  - condition/alive
 ---
-## Basic Information 
-- **Name:** Mira Valnor
-- **Gender:** Female
-- **Species:** Human
-- **Faction:** Imperium
-- **Role/Rank:** Informant
-- **Current Location:** [[Enoch]], [[Mira's Hideout]]
+
+| Basic Info           |                    |
+| -------------------- | ------------------ |
+| **Gender**           | Female             |
+| **Species**          | Human              |
+| **Faction**          | Imperium           |
+| **Role**             | Informant          |
+| **Current Location** | [[Mira's Hideout]] |
 
 ## Appearance 
 
@@ -22,7 +23,7 @@ standing: neutral
 ## Personality 
 
 ## Missions
-- [[Justice For the People]]
+- [ ] [[Justice For the People]]
 ## Rumors
 
 ## Other
