@@ -1,8 +1,7 @@
 ---
 title: Magos August-5
 tags:
-  - faction/imperium
-  - faction/adeptus-mechanicus
+  - faction/imperium/adeptus-mechanicus
   - planet/enoch
   - condition/alive
   - npc/neutral

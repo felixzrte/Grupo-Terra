@@ -2,7 +2,7 @@
 title: Mira Valnor
 tags:
   - planet/enoch
-  - faction/imperium
+  - faction/imperium/citizen
   - condition/alive
   - npc/neutral
   - location/enoch/praesidium/lower

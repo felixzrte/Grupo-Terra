@@ -3,7 +3,7 @@ tags:
   - mission/current
   - location/enoch/praesidium/lower
   - planet/enoch
-  - "#faction/imperium"
+  - faction/iron-maw
 ---
 
 ## Mission Brief
@@ -12,7 +12,7 @@ tags:
 | -------------------- | -------------------------------------- |
 | **Mission Type**     | Capture(Primary) Assasinate(Secondary) |
 | **Priority**         | Urgent                                 |
-| **Faction Involved** | [[Imperium]]                           |
+| **Faction Involved** | [[Iron Maw]]                           |
 | **Assigned Unit(s)** | Player Party                           |
 | **Current Status**   | IN PROGRESS                            |
 
@@ -20,8 +20,7 @@ tags:
 
 - [ ] Capture [[Raphael]] and bring him back to [[Mira Valnor|Mira]] (PRIMARY)
 	- [ ] Locate [[Raphael]] at given location
-- [ ] Kill [[Raphael]] if capture isn't possible (SECONDARY)
-
+- [ ] Kill [[Raphael]] if capture isn't possible, bring the body to [[Mira Valnor|Mira]] (SECONDARY)
 ## Background
 
 > [!warning] In order to progress [[Apostate Martyrs]] you must complete this mission or else there will be complications.
@@ -30,24 +29,23 @@ tags:
 
 [[Raphael]] leader of the [[Iron Maw]] has been stealing shipments of rations and supplies meant to go to the people of [[Enoch]]. It's a tragic situation, with the current overpopulation of pilgrims and scarcity of food this has turned things for the worse. [[Raphael]] isn't facing much resistance and has gone too far, we need someone to stop him. 
 ## Known Information
-- **Enemy Forces:** *(What the players know or suspect about enemy forces.)*
-- **Terrain and Environment:** [[Warejouse]]
-- **Challenges:** *(Known obstacles or difficulties.)*
-- **Available Resources:** *(Reinforcements, gear, or allies.)*
-
+- **Enemy Forces:** [[Raphael]], [[Iron Maw]] Gangers
+- **Terrain and Environment:** Urban, City, Buildings, Slums
+- **Challenges:** Stealth, Ambush
+- **Available Resources:** 
+	- Dataslate with coords for [[Warehouse B1-78]] (Given by [[Mira Valnor|Mira]])
 ## Deployment Details
-- **Location:** 
-- **Timeline:** *(When the mission starts or deadlines for objectives.)*
-- **Team Composition:** *(Player party, NPC allies, or key assets.)*
+- **Location:** [[Warehouse B1-78]] 
+- **Timeline:** 22:00
+- **Team Composition:** Player Party
 
 ## Complications
-*(Potential twists, surprises, or secret obstacles that might arise during the mission.)*
+
 
 ## Rewards
-*(List tangible and intangible rewards, such as equipment, favors, or reputation gains.)*
+
 
 ## Notes
-- *(Use this space for additional details, updates during gameplay, or GM-specific notes.)*
 
 
 

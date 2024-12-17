@@ -1,10 +1,10 @@
 ---
 tags:
   - mission/current
-  - "#faction/adeptus-mechanicus"
-  - faction/ecclesiarchy
   - planet/enoch
   - location/enoch/praesidium/lower
+  - faction/imperium/adeptus-mechanicus
+  - faction/imperium/ecclisiarchy
 ---
 
 ## Mission Brief
@@ -29,10 +29,10 @@ The emergence of the Great Rift is the greatest catastrophe to ever strike the [
 
 ## Known Information
 - **Opposition:** Sicarian Killcade 
-- **Terrain and Environment:** Lower City, Slums
+- **Terrain and Environment:**  City, Slums, Urban, Buildings
 - **Challenges:** Locating the Sicarian Killcade
-- **Available Resources:** [[Mira Valnor]]
-
+- **Available Resources:**
+	- [[Mira Valnor]] your POC
 ## Deployment Details
 - **Location:** [[Praesidium]], [[Praesidium Lower]]
 - **Timeline:** Before the parade (In 5 days)
