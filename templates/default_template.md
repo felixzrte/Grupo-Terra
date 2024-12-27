@@ -1,8 +1,4 @@
 ---
-type: 
-faction: 
 tags: 
-aliases: 
-parent: 
-children:
+aliases:
 ---
