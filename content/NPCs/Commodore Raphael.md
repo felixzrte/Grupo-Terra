@@ -1,10 +1,10 @@
 ---
 tags:
   - npc/status/alive
-  - npc/standing/excellent
   - faction/imperium/astra-millitarum
   - npc/species/human
   - npc/gender/male
+  - npc/standing/neutral
 aliases:
   - Raphael
 ---

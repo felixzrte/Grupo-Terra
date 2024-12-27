@@ -1,10 +1,10 @@
 ---
 tags:
   - npc/status/alive
-  - npc/standing/excellent
   - faction/imperium/inqusition
   - npc/species/human
   - npc/gender/female
+  - npc/standing/neutral
 aliases:
   - Lunas
   - Shipmistress

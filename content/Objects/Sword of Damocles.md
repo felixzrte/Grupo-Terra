@@ -2,6 +2,7 @@
 tags:
   - player
   - faction/imperium/inqusition
+  - object/ship
 aliases:
 ---
 

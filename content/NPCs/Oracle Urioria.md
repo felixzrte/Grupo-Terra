@@ -2,9 +2,9 @@
 tags:
   - faction/imperium/navis-nobilite
   - npc/status/alive
-  - npc/standing/excellent
   - npc/gender/female
   - npc/species/human
+  - npc/standing/neutral
 aliases:
   - Navigator
   - Urioria

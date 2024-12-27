@@ -1,10 +1,10 @@
 ---
 tags:
   - npc/status/alive
-  - npc/standing/excellent
   - faction/imperium/astra-millitarum
   - npc/gender/male
   - npc/species/human
+  - npc/standing/neutral
 aliases:
   - Slike
   - SGM Leegas
