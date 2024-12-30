@@ -10,4 +10,18 @@ aliases:
   - Shipmistress
   - Shipmistress Delrosio
 ---
-Crewmember of the [[Sword of Damocles]]
+
+| Bio                     |                           |
+| ----------------------- | ------------------------- |
+| **Name**                | Lunas Delrosio (Lew-nahs) |
+| **Faction**             | Inquisition               |
+| **Title**               | Shipmistress              |
+| **Role**                |                           |
+| **Gender**              | Female                    |
+| **Species**             | Human                     |
+| **Standing with Party** | Neutral                   |
+## Overview
+
+
+## Appearance
+- 
